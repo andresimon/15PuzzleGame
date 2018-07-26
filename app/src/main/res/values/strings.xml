@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">15-Puzzle Game</string>
+    <string name="title_activity_win">WinActivity</string>
+</resources>
